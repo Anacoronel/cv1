@@ -237,9 +237,22 @@
    ul.listaiconos li::before {
      content: '';
      display: inline-block;
-     height: 20px;
-     width: 30px;
+     height: 30px;
+     width: 60px;
      margin-right: 10px;
      background-image: url(https://www.econoblog.com.ar/wp-content/uploads/2021/08/FB-Argentina-Programa.jpg);
      background-size: contain;
    }
+   ul.listaiconos2 li {
+    list-style: none;
+    display: block;
+  }
+  ul.listaiconos2 li::before {
+    content: '';
+    display: inline-block;
+    height: 30px;
+    width: 60px;
+    margin-right: 10px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr07dtODx8V8TxUPzQMJHbtjb6UoeND37syG3Azhhvc_vHljv5YGMHbHd8k6AHRXRZmiw&usqp=CAU);
+    background-size: contain;
+  }
