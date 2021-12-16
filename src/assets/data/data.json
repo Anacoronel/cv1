@@ -6,7 +6,11 @@
   "ubicacion":"Ciudad de Buenos Aires",
   "pais":"Argentina",
   "mail":"anacoronel@hotmail.com",
+  "quote1":"Anyone who stops learning is old, whether at twenty or eighty.",
+  "by":"Henry Ford",
+  "quote2":"Anyone who keeps learning stays young.The greatest thing in life is to keep your mind young.",
   "educacion":[
+    
       {
           
            "nombre": "Argentina Programa #YoProgramo",
